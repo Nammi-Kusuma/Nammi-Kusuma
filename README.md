@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nammi-kusuma&label=Profile%20views&color=0e75b6&style=flat" alt="nammi-kusuma" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js, Django**
 
-- 💬 Ask me about **MERN Stack, DSA**
+- 💬 Ask me about **MERN Stack, DSA, Python Stack**
 
 - 📫 How to reach me **kusumanammi0809@gmail.com**
 
